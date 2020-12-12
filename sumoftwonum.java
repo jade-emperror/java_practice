@@ -8,5 +8,6 @@ public class sumoftwonum {
     System.out.println("Enter B value");
     Integer b = ip.nextInt();
     System.out.println("sum of two numbere "+(a+b));
+    ip.close();
 }
 }
